@@ -1,0 +1,5 @@
+﻿  MyLibrary.cpp
+C:\Users\IUSTIN\Documents\GitHub\tiganescu-iustin\laboratorul4\laboratorul4\MyLibrary.cpp(106,15): warning C4018: '>=': signed/unsigned mismatch
+  Source.cpp
+  Generating Code...
+  laboratorul4.vcxproj -> C:\Users\IUSTIN\Documents\GitHub\tiganescu-iustin\laboratorul4\x64\Debug\laboratorul4.exe
